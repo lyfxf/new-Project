@@ -1,1 +1,5 @@
-my name is lyf HELLO WORLD
+<<<<<<< HEAD
+my name is lyf hello
+=======
+my name is lyf hello
+>>>>>>> feature1
